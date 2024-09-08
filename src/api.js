@@ -1,1 +1,1 @@
-export const BASE_URL="https://course-finder-using-react-node-backend.vercel.app"
+export const BASE_URL = "https://skill-seeker-backend.vercel.app"
